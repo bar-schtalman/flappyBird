@@ -10,6 +10,8 @@ Play the game directly in your browser on [itch.io](https://barschtalman.itch.io
 Use your mouse left click or Space button
 
 ## Screenshots
-![Gameplay Screenshot 1]([Screenshots/screenshot1.png](https://github.com/bar-schtalman/flappyBird/blob/c1ae65459350405c7ee62bc4044eb3bd7f3bd596/Screenshots/screenshot2.PNG)https://github.com/bar-schtalman/flappyBird/blob/c1ae65459350405c7ee62bc4044eb3bd7f3bd596/Screenshots/screenshot2.PNG)
-![Gameplay Screenshot 2](Screenshots/screenshot2.png)
+![pic2](https://github.com/bar-schtalman/flappyBird/blob/c1ae65459350405c7ee62bc4044eb3bd7f3bd596/Screenshots/screenshot2.PNG)
+![pic1](https://github.com/bar-schtalman/flappyBird/blob/c1ae65459350405c7ee62bc4044eb3bd7f3bd596/Screenshots/screenshot1.PNG)
+
+
 
